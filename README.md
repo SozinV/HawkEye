@@ -1,0 +1,2 @@
+# HawkEye
+An advanced Discord bot with hybrid commands, featuring over 70 commands including music, moderation, fun, and miscellaneous commands. The bot is designed to be highly customizable and has a user-friendly interface that allows for easy navigation and configuration. With its robust set of features, the bot is ideal for Discord servers of all sizes and can help to enhance the overall user experience for members.
